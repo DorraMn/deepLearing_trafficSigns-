@@ -222,16 +222,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 Ce projet est à des fins éducatives.
 
-## 👥 Auteurs
 
-- **Selim** - Développement initial
-- **Dorra** - Collaboration
-
-## 🙏 Remerciements
-
-- German Traffic Sign Recognition Benchmark (GTSRB) pour le dataset
-- La communauté TensorFlow/Keras
-- Contributeurs open source
 
 ## 📞 Contact
 
